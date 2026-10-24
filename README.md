@@ -16,7 +16,7 @@
 - 🌱 Learning **LLMs, Generative AI & Cloud Architecture**
 - 💡 Passionate about building tools that **solve real-world problems**
 - 🏆 SIH 2026 Participant — Smart India Hackathon
-- 📫 Reach me at: **hemendra@example.com**
+- 📫 Reach me at: **hemendrawork.07@gmail.com**
 
 ---
 
